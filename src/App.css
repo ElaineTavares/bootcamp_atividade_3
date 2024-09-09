@@ -1,0 +1,7 @@
+.secao_livros{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    padding-block: 100px;
+    gap: 80px;
+}

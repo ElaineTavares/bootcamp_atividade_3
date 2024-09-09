@@ -1,0 +1,12 @@
+.campo_texto{
+    width: 100%;
+}
+
+.campo_texto input{
+    width: 100%;
+    padding: 15px;
+}
+
+.campo_texto input::placeholder{
+    font-size: 18px;
+}

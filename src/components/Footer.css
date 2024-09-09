@@ -1,0 +1,24 @@
+footer{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding-block: 50px;
+    /* background-color: #7b8584; */
+    background-color: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+
+
+footer h3{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    bottom: 150px;
+    font-size: 3rem;
+    text-shadow: 10px 10px 30px #000000;
+}
+
